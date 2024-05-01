@@ -37,8 +37,8 @@ Participants should review the [Assignment Submission Guide](https://github.com/
 
 There are two assignments (one per week) in this module:
 
-1. [Anagram Checker](https://github.com/UofT-DSI/python/blob/main/02_assignments/assignment_1.ipynb): Due **Sunday May 5**
-2. [Efficacy Analysis of a Hypothetical Arthritis Drug](https://github.com/UofT-DSI/python/blob/main/02_assignments/assignment_2.ipynb): Due **Sunday May 12**
+1. [Anagram Checker](https://github.com/UofT-DSI/python/blob/main/02_assignments/assignment_1.ipynb): Due **Sunday May 5 at 11:59 PM**
+2. [Efficacy Analysis of a Hypothetical Arthritis Drug](https://github.com/UofT-DSI/python/blob/main/02_assignments/assignment_2.ipynb): Due **Sunday May 12 at 11:59 PM**
 
 ## Contacts
 
@@ -53,7 +53,7 @@ There are two assignments (one per week) in this module:
 
 ## Delivery of the Learning Module
 
-This module will include live learning sessions and optional, asynchronous work periods. During live learning sessions, the Technical Facilitator will introduce and explain key concepts and demonstrate core skills. Learning is facilitated during this time. Before and after each live learning session, the instructional team will be available for questions related to the core concepts of the module. The Technical Facilitator will introduce concepts through a collaborative live coding session using the Python notebooks found under `/01_slides`. The Technical Facilitator will also upload live coding files to this repository for participants to revisit under `/live_code`.
+This module will include live learning sessions and optional, asynchronous work periods. During live learning sessions, the Technical Facilitator will introduce and explain key concepts and demonstrate core skills. Learning is facilitated during this time. Before and after each live learning session, the instructional team will be available for questions related to the core concepts of the module. The Technical Facilitator will introduce concepts through a collaborative live coding session using the Python notebooks found under `/01_slides`. The Technical Facilitator will also upload live coding files to this repository for participants to revisit under `./06_cohort_three/live_code`.
 
 
 Optional work periods are to be used to seek help from peers, the Learning Support team, and to work through the homework and assignments in the learning module, with access to live help. Content is not facilitated, but rather this time should be driven by participants. We encourage participants to come to these work periods with questions and problems to work through. 
